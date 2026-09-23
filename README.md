@@ -8,7 +8,7 @@ Aera OS explores how a launcher, everyday apps, and window interactions can work
 
 ![Aera OS launcher in the Android emulator](assets/launcher.png)
 
-*Development screenshot from July 2026. The launcher illustrates the app ecosystem; the presence of an icon does not imply that every app is complete.*
+*Captured from the current Aera OS Main emulator on 23 September 2026. The launcher illustrates the app ecosystem; the presence of an icon does not imply that every app is complete.*
 
 ## What I work on
 
