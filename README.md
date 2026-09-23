@@ -6,9 +6,9 @@
 
 Aera OS explores how a launcher, everyday apps, and window interactions can work together in a spatial computing interface for the glasses. The implementation combines an Android Home shell, an app runtime, first-party React Native apps, and an AOSP product overlay.
 
-![Aera OS launcher in the Android emulator](assets/launcher.png)
+![Aera OS launcher in the Android emulator](assets/launcher-2026-09-23.png)
 
-*Captured from the current Aera OS Main emulator on 23 September 2026. The launcher illustrates the app ecosystem; the presence of an icon does not imply that every app is complete.*
+*Captured from the Aera OS Main development emulator on 23 September 2026. The launcher shows 14 entries: 12 primary apps, Camera, and the Weather Background Preview development tool. The presence of an icon does not imply that every app is complete.*
 
 ## What I work on
 
@@ -45,9 +45,9 @@ flowchart TD
 
 ## A closer look: Notes
 
-![Aera Notes with an empty writing surface and spatial window controls](assets/notes.png)
+![Aera Notes with an empty writing surface and spatial window controls](assets/notes-2026-09-23.png)
 
-*Development screenshot from July 2026, showing an empty note. The app surface and system window controls have distinct responsibilities.*
+*Captured from the Aera OS Main development emulator on 23 September 2026, showing an empty writing surface. The app surface and system window controls have distinct responsibilities.*
 
 Notes illustrates the central design problem: familiar content and editing actions need to coexist with a consistent window model. The app provides its writing interface; the platform supplies the surrounding shell and shared interaction behavior.
 
